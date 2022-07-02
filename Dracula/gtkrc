@@ -67,16 +67,16 @@ style "gimp-dark-default-style"
 {
 #  font_name = "Sans 11"
 
-  color["clr1"]  = "#f8f8f2" # text in den boxen
+  color["clr1"]  = "#f8f8f2"
   color["clr2"]  = "#FFFFFF"
-  color["clr3"]  = "#ff79c6" #text pannels
+  color["clr3"]  = "#ff79c6"
   color["clr4"]  = "#383838"
-  color["clr5"]  = "#44475a" # banner #x
+  color["clr5"]  = "#44475a"
   color["clr6"]  = "#828282"
   color["clr7"]  = "#3B3B3B"
-  color["clr8"]  = "#ff79c6" # frames #x
-  color["clr9"]  = "#282a36" # background #x
-  color["clrA"]  = "#44475a" # background2 #x
+  color["clr8"]  = "#ff79c6"
+  color["clr9"]  = "#282a36"
+  color["clrA"]  = "#44475a"
   color["link_color"]         = "#6fa4dc"
   color["visited_link_color"] = "#1a74d3"
 
