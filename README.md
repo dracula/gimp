@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/psychopy](https://draculatheme.com/gimp).
+All instructions can be found at [draculatheme.com/gimp](https://draculatheme.com/gimp).
 
 ## Team
 
