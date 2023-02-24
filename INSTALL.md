@@ -13,6 +13,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/gimp/archiv
 #### Activating theme
 
 1. Copy theme folder (note the version suffix):
-   - MacOS: `cp -r ~/gimp/Dracula/ /Applications/GIMP.app/Contents/Resources/share/gimp/2.0/themes`
+   - MacOS: `cp -r ~/gimp/Dracula/ /Applications/GIMP.app/Contents/Resources/share/gimp/2.0/themes/Dracula`
    - Linux: `cp -r ~/gimp/Dracula/ ~/.config/GIMP/2.10/themes/`
 2. Activate under `Preferences > Interface > Theme > Dracula : OK`
