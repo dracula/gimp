@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/gimp](https://draculatheme.co
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/gimp/graphs/contributors).
 
-| [![Aleksej Chaichan](https://github.com/alexchaichan.png?size=100)](https://github.com/alexchaichan)  |
+| [![Aleksej Krueger](https://github.com/aleksejkrueger.png?size=100)](https://github.com/aleksejkrueger)  |
 | ------------------------------------------------------------------------------------------------------|
-| [Aleksej Chaichan](https://github.com/alexchaichan)                                                   |
+| [Aleksej Krueger](https://github.com/aleksejkrueger)                                                   |
 
 ## Community
 
